@@ -1,0 +1,7 @@
+{
+  "name": "MeowLog - Cat Daily Journal",
+  "description": "A cozy, warm-toned daily journal for your cat with community features and flipbook-style memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
